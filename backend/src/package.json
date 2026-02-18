@@ -1,0 +1,42 @@
+{
+  "name": "kaida",
+  "version": "1.0.0",
+  "description": "server side for kaida ecomm site",
+  "keywords": [
+    "backend",
+    "server",
+    "ecomm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "license": "ISC",
+  "author": "stephen ogwel",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.5",
+    "axois": "^0.0.1-security",
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^2.9.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.1",
+    "joi": "^18.0.2",
+    "jsonwebtoken": "^9.0.3",
+    "nodemon": "^3.1.11",
+    "pg": "^8.18.0",
+    "stripe": "^20.3.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
