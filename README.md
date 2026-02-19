@@ -1,2 +1,2 @@
-# kaida-frontend
-client side of kaida ecommerce website 
+# kaida
+This is a full stack  project simulating a real world ecommerce website.
