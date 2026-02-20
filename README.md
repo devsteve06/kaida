@@ -1,5 +1,3 @@
-# kaida
-This is a full stack  project simulating a real world ecommerce website.
 # Kaida
 
 Monorepo for the Kaida e‑commerce application. This repository contains a Node/Express backend API and a Vite + React frontend.
