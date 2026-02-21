@@ -7,7 +7,7 @@ function MainLayout() {
   return (
    <>
    <Navbar/>
-   <main>
+   <main flex className='min-h-screen items-center justify-center bg-gray-100'>
       <Outlet/>
    </main>
    <Footer/>
@@ -15,4 +15,4 @@ function MainLayout() {
   )
 }
 
-export default MainLayout
+export default MainLayout;
